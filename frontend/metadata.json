@@ -1,0 +1,7 @@
+{
+  "name": "ShadowLaunch: Pump.fun Bundler Console",
+  "description": "Advanced token launchpad with bundled wallet management, automated buy/sell execution, and liquidity exit tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
